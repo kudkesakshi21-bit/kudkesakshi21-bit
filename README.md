@@ -24,35 +24,30 @@
 
 # 👩‍💻 About Me
 
-```python
-class SakshiKudke():
+# 👩‍💻 About Me
 
-    def __init__(self):
-        self.name = "Sakshi Kudke"
-        self.education = "B.Tech Data Science"
-        self.university = "MGM University"
-        self.year = "Pre-Final Year"
+🎓 **Pre-Final Year B.Tech Data Science Student** at **MGM University**
 
-        self.interests = [
-            "Data Analytics",
-            "Business Intelligence",
-            "Machine Learning",
-            "Python Development"
-        ]
+💙 Passionate about **Data Analytics, Python, SQL, and Business Intelligence**.
 
-        self.currently_learning = [
-            "Power BI",
-            "Advanced SQL",
-            "Machine Learning",
-            "Tableau"
-        ]
+I enjoy analyzing data, discovering patterns, and building dashboards that help transform raw data into meaningful business insights.
 
-        self.goal = "Become a Data Analyst"
+### ⚡ Highlights
 
-me = SakshiKudke()
-```
+- 📊 Data Analytics Enthusiast
+- 🐍 Python Developer
+- 🗄️ SQL Learner
+- 📈 Power BI Dashboard Developer
+- 📉 Data Visualization Explorer
+- 🤖 Machine Learning Learner
+- 🚀 Building Real-World Projects
+- 🌱 Always Learning New Technologies
 
----
+### 🎯 Career Objective
+
+Seeking opportunities to apply my analytical and technical skills in real-world projects while growing as a **Data Analyst** and contributing to data-driven decision-making.
+
+📫 **Email:** **sakshikudke005@gmail.com**
 
 # ⚡ Tech Stack
 
