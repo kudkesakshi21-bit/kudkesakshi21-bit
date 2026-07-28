@@ -1,99 +1,242 @@
-<h1 align="center">Hi 👋, I'm Sakshi Kudke</h1>
+<h1 align="center">
+  Hi 👋 I'm Sakshi Kudke
+</h1>
 
 <h3 align="center">
-🚀 Aspiring Data Analyst | 📊 Data Science Student | Python & SQL Enthusiast
+💻 Data Science Student | 📊 Aspiring Data Analyst | 🚀 Python Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Pre-Final+Year+Data+Science+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Insights;Always+Learning+Something+New;Open+to+Internship+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Pre-Final+Year+Data+Science+Student;Python+Developer;SQL+Enthusiast;Power+BI+Developer;Data+Visualization+Specialist;Machine+Learning+Learner;Open+to+Internship+Opportunities" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kudkesakshi21-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/kudkesakshi21-bit?style=for-the-badge&logo=github&color=blue"/>
-<img src="https://img.shields.io/github/stars/kudkesakshi21-bit?style=for-the-badge&logo=github&color=yellow"/>
+
+<img src="https://komarev.com/ghpvc/?username=kudkesakshi21-bit&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/kudkesakshi21-bit?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/kudkesakshi21-bit?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 **Pre-Final Year B.Tech Data Science Student** at **MGM University**
+```python
+class SakshiKudke():
 
-I enjoy transforming raw data into meaningful insights that support better decision-making.
+    def __init__(self):
+        self.name = "Sakshi Kudke"
+        self.education = "B.Tech Data Science"
+        self.university = "MGM University"
+        self.year = "Pre-Final Year"
 
-- 📊 Building Data Analytics Projects
-- 🐍 Practicing Python & SQL
-- 📈 Creating Power BI Dashboards
-- 🤖 Learning Machine Learning
-- 📚 Exploring Data Storytelling
+        self.interests = [
+            "Data Analytics",
+            "Business Intelligence",
+            "Machine Learning",
+            "Python Development"
+        ]
 
----
+        self.currently_learning = [
+            "Power BI",
+            "Advanced SQL",
+            "Machine Learning",
+            "Tableau"
+        ]
 
-# 💻 Tech Stack
+        self.goal = "Become a Data Analyst"
 
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode"/>
-</p>
-
-### Libraries
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+me = SakshiKudke()
+```
 
 ---
 
-# 🚀 Featured Projects
+# ⚡ Tech Stack
+
+### Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql"/>
+
+</p>
+
+---
+
+### Data Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel">
+
+</p>
+
+---
+
+# 🚀 What I'm Working On
+
+🔹 Data Analytics Projects
+
+🔹 Power BI Dashboards
+
+🔹 SQL Practice
+
+🔹 Python Automation
+
+🔹 Machine Learning
+
+🔹 Data Visualization
+
+---
+
+# 📂 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ### 📊 Student Performance Analysis
 
-- Python
-- Pandas
-- Power BI
-- Data Cleaning
-- EDA
+✔ Python
+
+✔ Pandas
+
+✔ Data Cleaning
+
+✔ Dashboard
+
+</td>
+
+<td width="50%">
 
 ### 📈 Sales Dashboard
 
-- Power BI
-- Excel
-- KPI Dashboard
+✔ Power BI
+
+✔ KPI Dashboard
+
+✔ Excel
+
+✔ Business Insights
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🎬 Netflix Data Analysis
 
-- Python
-- Pandas
-- Visualization
+✔ Python
+
+✔ Matplotlib
+
+✔ EDA
+
+</td>
+
+<td width="50%">
+
+### 📉 Data Visualization
+
+✔ Charts
+
+✔ Reports
+
+✔ Storytelling
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kudkesakshi21-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudkesakshi21-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kudkesakshi21-bit&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudkesakshi21-bit&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=kudkesakshi21-bit&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kudkesakshi21-bit&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kudkesakshi21-bit&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kudkesakshi21-bit&theme=algolia&column=4"/>
+
 </p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kudkesakshi21-bit&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+✔ Machine Learning
+
+✔ Power BI
+
+✔ Tableau
+
+✔ SQL Optimization
+
+✔ Excel Automation
+
+✔ Data Storytelling
+```
+
+---
+
+# 💼 Looking For
+
+🎯 Data Analyst Internship
+
+🎯 Business Analyst Internship
+
+🎯 Python Developer Internship
+
+🎯 Data Science Internship
 
 ---
 
@@ -118,46 +261,33 @@ I enjoy transforming raw data into meaningful insights that support better decis
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kudkesakshi21-bit&theme=tokyo-night"/>
 </p>
 
----
 
-# 🌱 Currently Learning
-
-- Machine Learning
-- Advanced SQL
-- Power BI
-- Tableau
-- Data Storytelling
-- Excel Automation
-
----
-
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sakshi-kudke">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/kudkesakshi21-bit">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="mailto:sakshikudke005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💼 Open To
+<p align="center">
 
-- ✅ Data Analyst Internship
-- ✅ Business Analyst Internship
-- ✅ Data Science Internship
-- ✅ Python Internship
+## ⭐ Thanks for Visiting!
 
----
+### 🚀 Turning Data into Decisions
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,100:005BEA&height=120&section=footer"/>
+
+</p>
