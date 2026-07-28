@@ -9,13 +9,9 @@
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=kudkesakshi21-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/kudkesakshi21-bit?style=for-the-badge&logo=github&color=blue"/>
-
 <img src="https://img.shields.io/github/stars/kudkesakshi21-bit?style=for-the-badge&logo=github&color=yellow"/>
-
 </p>
 
 ---
@@ -24,144 +20,71 @@
 
 🎓 **Pre-Final Year B.Tech Data Science Student** at **MGM University**
 
-I enjoy transforming raw data into meaningful insights that support better decision-making. I am continuously improving my skills in data analysis, visualization, and business intelligence by working on real-world projects.
+I enjoy transforming raw data into meaningful insights that support better decision-making.
 
-### 💡 What I'm Currently Doing
-
-✔ Building Data Analytics Projects
-
-✔ Practicing SQL & Python Daily
-
-✔ Creating Interactive Power BI Dashboards
-
-✔ Learning Machine Learning
-
-✔ Improving Data Visualization Skills
-
-✔ Exploring Business Intelligence Concepts
-
-🎯 **Career Goal**
-
-Become a skilled **Data Analyst** who helps organizations make data-driven decisions through analytics, visualization, and storytelling.
+- 📊 Building Data Analytics Projects
+- 🐍 Practicing Python & SQL
+- 📈 Creating Power BI Dashboards
+- 🤖 Learning Machine Learning
+- 📚 Exploring Data Storytelling
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Programming
+### Programming
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode"/>
 </p>
 
-### 📊 Data Analytics
+### Libraries
 
 <p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Statistics-orange?style=for-the-badge">
-
-</p>
-
-### 📈 Visualization
-
-<p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-
-</p>
-
-### 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 Student Performance Analysis
+### 📊 Student Performance Analysis
 
-✔ Data Cleaning
+- Python
+- Pandas
+- Power BI
+- Data Cleaning
+- EDA
 
-✔ Exploratory Data Analysis
+### 📈 Sales Dashboard
 
-✔ Python
+- Power BI
+- Excel
+- KPI Dashboard
 
-✔ Power BI Dashboard
+### 🎬 Netflix Data Analysis
 
-✔ Business Insights
-
----
-
-## 📈 Sales Dashboard
-
-✔ KPI Dashboard
-
-✔ Power BI
-
-✔ Excel
-
-✔ Interactive Visualizations
+- Python
+- Pandas
+- Visualization
 
 ---
 
-## 🎬 Netflix Data Analysis
-
-✔ Python
-
-✔ Pandas
-
-✔ Data Visualization
-
-✔ Trend Analysis
-
----
-
-# 📚 Currently Learning
-
-🌱 Machine Learning
-
-🌱 Advanced SQL
-
-🌱 Tableau
-
-🌱 Power BI
-
-🌱 Data Storytelling
-
-🌱 Excel Automation
-
----
-
-# 📈 GitHub Analytics
+# 📈 GitHub Statistics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kudkesakshi21-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kudkesakshi21-bit&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudkesakshi21-bit&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudkesakshi21-bit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kudkesakshi21-bit&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=kudkesakshi21-bit&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -169,25 +92,46 @@ Become a skilled **Data Analyst** who helps organizations make data-driven decis
 # 🏆 GitHub Trophies
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kudkesakshi21-bit&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kudkesakshi21-bit&theme=tokyonight&column=4"/>
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kudkesakshi21/kudkesakshi21/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kudkesakshi21-bit/kudkesakshi21-bit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kudkesakshi21-bit/kudkesakshi21-bit/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation"
+      src="https://raw.githubusercontent.com/kudkesakshi21-bit/kudkesakshi21-bit/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
 ---
 
 # 📊 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kudkesakshi21-bit&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 🌱 Currently Learning
+
+- Machine Learning
+- Advanced SQL
+- Power BI
+- Tableau
+- Data Storytelling
+- Excel Automation
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -207,24 +151,13 @@ Become a skilled **Data Analyst** who helps organizations make data-driven decis
 
 ---
 
-# 💼 Open to Opportunities
+# 💼 Open To
 
-🚀 **Looking for**
-
-✅ Data Analyst Internship
-
-✅ Business Analyst Internship
-
-✅ Python Internship
-
-✅ Data Science Internship
+- ✅ Data Analyst Internship
+- ✅ Business Analyst Internship
+- ✅ Data Science Internship
+- ✅ Python Internship
 
 ---
 
-<p align="center">
-
-## ⭐ If you like my projects, don't forget to star ⭐ my repositories!
-
-### Thank you for visiting my profile ❤️
-
-</p>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
