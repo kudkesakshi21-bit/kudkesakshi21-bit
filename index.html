@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sakshi Kudke — Data Analyst Portfolio</title>
+<meta name="description" content="Sakshi Kudke — Data Science student, Python developer and Power BI dashboard builder.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="grid-overlay" aria-hidden="true"></div>
+
+<a class="skip-link" href="#main">Skip to content</a>
+
+<!-- NAV -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="#top" class="logo">SK<span class="logo-dot">.</span></a>
+    <nav class="main-nav" id="main-nav">
+      <a href="#about">About</a>
+      <a href="#stack">Stack</a>
+      <a href="#projects">Projects</a>
+      <a href="#learning">Learning</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <a href="mailto:sakshikudke005@gmail.com" class="btn btn-ghost header-cta">Say hello</a>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- HERO -->
+  <section class="hero" id="top">
+    <div class="hero-inner">
+      <div class="hero-copy reveal">
+        <p class="eyebrow">DATASET: PORTFOLIO&nbsp;/&nbsp;RECORD 01</p>
+        <h1 class="hero-title">Sakshi Kudke</h1>
+        <p class="hero-role">Data Science Student &amp; Aspiring Data Analyst</p>
+        <p class="hero-desc">Pre-final year B.Tech Data Science student at MGM University. I clean messy tables, find the pattern hiding inside them, and turn it into a dashboard someone can actually make a decision from.</p>
+        <div class="hero-actions">
+          <a href="#projects" class="btn btn-primary">View projects</a>
+          <a href="#contact" class="btn btn-outline">Get in touch</a>
+        </div>
+        <div class="kpi-row">
+          <div class="kpi">
+            <span class="kpi-value" data-count="4">0</span>
+            <span class="kpi-label">Featured projects</span>
+          </div>
+          <div class="kpi">
+            <span class="kpi-value" data-count="10">0</span>
+            <span class="kpi-label">Tools in daily use</span>
+          </div>
+          <div class="kpi">
+            <span class="kpi-value" data-count="6">0</span>
+            <span class="kpi-label">Skills in progress</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-panel reveal" aria-label="Skill proficiency dashboard">
+        <div class="panel-head">
+          <span class="panel-dot"></span>
+          <span class="panel-title">skill_proficiency.query()</span>
+          <span class="panel-status">LIVE</span>
+        </div>
+        <ul class="bar-chart" id="barChart">
+          <li class="bar-row">
+            <span class="bar-label">Python</span>
+            <span class="bar-track"><span class="bar-fill" style="--pct:92%"></span></span>
+            <span class="bar-pct">92%</span>
+          </li>
+          <li class="bar-row">
+            <span class="bar-label">SQL</span>
+            <span class="bar-track"><span class="bar-fill" style="--pct:85%"></span></span>
+            <span class="bar-pct">85%</span>
+          </li>
+          <li class="bar-row">
+            <span class="bar-label">Power BI</span>
+            <span class="bar-track"><span class="bar-fill" style="--pct:88%"></span></span>
+            <span class="bar-pct">88%</span>
+          </li>
+          <li class="bar-row">
+            <span class="bar-label">Excel</span>
+            <span class="bar-track"><span class="bar-fill" style="--pct:80%"></span></span>
+            <span class="bar-pct">80%</span>
+          </li>
+          <li class="bar-row">
+            <span class="bar-label">Machine Learning</span>
+            <span class="bar-track"><span class="bar-fill" style="--pct:65%"></span></span>
+            <span class="bar-pct">65%</span>
+          </li>
+        </ul>
+        <p class="panel-footnote">// self-assessed, updated as I build</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section" id="about">
+    <div class="section-head reveal">
+      <p class="eyebrow">01 / ABOUT</p>
+      <h2>Turning raw rows into a story</h2>
+    </div>
+    <div class="about-grid">
+      <p class="about-text reveal">
+        I'm a pre-final year Data Science student who enjoys the moment a spreadsheet stops being a wall of numbers and starts explaining itself. Most of my time goes into Python, SQL and Power BI &mdash; cleaning data, testing hypotheses, and building dashboards that hold up when someone outside the project actually opens them. I'm currently looking for an internship where I can do that on a real problem.
+      </p>
+      <div class="record-card reveal">
+        <div class="record-row"><span class="record-key">role</span><span class="record-val">Aspiring Data Analyst</span></div>
+        <div class="record-row"><span class="record-key">institution</span><span class="record-val">MGM University</span></div>
+        <div class="record-row"><span class="record-key">program</span><span class="record-val">B.Tech, Data Science</span></div>
+        <div class="record-row"><span class="record-key">year</span><span class="record-val">Pre-final year</span></div>
+        <div class="record-row"><span class="record-key">status</span><span class="record-val"><span class="status-dot"></span>Open to internships</span></div>
+        <div class="record-row"><span class="record-key">contact</span><span class="record-val"><a href="mailto:sakshikudke005@gmail.com">sakshikudke005@gmail.com</a></span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STACK -->
+  <section class="section" id="stack">
+    <div class="section-head reveal">
+      <p class="eyebrow">02 / TOOLKIT</p>
+      <h2>What I build with</h2>
+    </div>
+
+    <div class="stack-groups">
+      <div class="stack-group reveal">
+        <h3 class="stack-group-title">Languages</h3>
+        <div class="chip-row">
+          <span class="chip">Python</span>
+          <span class="chip">SQL</span>
+          <span class="chip">C</span>
+        </div>
+      </div>
+      <div class="stack-group reveal">
+        <h3 class="stack-group-title">Analytics &amp; BI</h3>
+        <div class="chip-row">
+          <span class="chip">Pandas</span>
+          <span class="chip">NumPy</span>
+          <span class="chip">Matplotlib</span>
+          <span class="chip">Power BI</span>
+          <span class="chip">Tableau</span>
+          <span class="chip">Excel</span>
+        </div>
+      </div>
+      <div class="stack-group reveal">
+        <h3 class="stack-group-title">Workflow</h3>
+        <div class="chip-row">
+          <span class="chip">Git</span>
+          <span class="chip">GitHub</span>
+          <span class="chip">VS Code</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="section" id="projects">
+    <div class="section-head reveal">
+      <p class="eyebrow">03 / PROJECTS</p>
+      <h2>Featured work</h2>
+    </div>
+
+    <div class="project-grid">
+      <article class="project-card reveal">
+        <div class="project-index">01</div>
+        <h3>Student Performance Analysis</h3>
+        <p>Cleaned and explored a student performance dataset in Python, then built a dashboard surfacing where scores dropped off and why.</p>
+        <div class="chip-row small">
+          <span class="chip">Python</span>
+          <span class="chip">Pandas</span>
+          <span class="chip">Data Cleaning</span>
+          <span class="chip">Dashboard</span>
+        </div>
+      </article>
+
+      <article class="project-card reveal">
+        <div class="project-index">02</div>
+        <h3>Sales Dashboard</h3>
+        <p>A Power BI KPI dashboard built from Excel sales data, designed to give a business owner a five-second read on performance.</p>
+        <div class="chip-row small">
+          <span class="chip">Power BI</span>
+          <span class="chip">KPI Dashboard</span>
+          <span class="chip">Excel</span>
+          <span class="chip">Business Insights</span>
+        </div>
+      </article>
+
+      <article class="project-card reveal">
+        <div class="project-index">03</div>
+        <h3>Netflix Data Analysis</h3>
+        <p>Exploratory data analysis on Netflix's catalog &mdash; genre trends, release patterns, and content mix over time.</p>
+        <div class="chip-row small">
+          <span class="chip">Python</span>
+          <span class="chip">Matplotlib</span>
+          <span class="chip">EDA</span>
+        </div>
+      </article>
+
+      <article class="project-card reveal">
+        <div class="project-index">04</div>
+        <h3>Data Visualization Practice</h3>
+        <p>A running set of charts and short reports built to practice telling a straight story with data, not just plotting it.</p>
+        <div class="chip-row small">
+          <span class="chip">Charts</span>
+          <span class="chip">Reports</span>
+          <span class="chip">Storytelling</span>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- CURRENTLY LEARNING -->
+  <section class="section" id="learning">
+    <div class="section-head reveal">
+      <p class="eyebrow">04 / IN PROGRESS</p>
+      <h2>Currently learning</h2>
+    </div>
+
+    <ul class="query-list reveal">
+      <li><span class="query-check">✓</span>Machine Learning</li>
+      <li><span class="query-check">✓</span>Power BI</li>
+      <li><span class="query-check">✓</span>Tableau</li>
+      <li><span class="query-check">✓</span>SQL Optimization</li>
+      <li><span class="query-check">✓</span>Excel Automation</li>
+      <li><span class="query-check">✓</span>Data Storytelling</li>
+    </ul>
+
+    <div class="looking-for reveal">
+      <h3 class="stack-group-title">Looking for</h3>
+      <div class="chip-row">
+        <span class="chip chip-accent">Data Analyst Internship</span>
+        <span class="chip chip-accent">Business Analyst Internship</span>
+        <span class="chip chip-accent">Python Developer Internship</span>
+        <span class="chip chip-accent">Data Science Internship</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section contact-section" id="contact">
+    <div class="contact-inner reveal">
+      <p class="eyebrow">05 / CONTACT</p>
+      <h2>Let's turn your data into a decision</h2>
+      <p class="contact-desc">Open to internships and collaborations in data analytics, BI dashboards and Python. The quickest way to reach me is email.</p>
+      <div class="hero-actions">
+        <a href="mailto:sakshikudke005@gmail.com" class="btn btn-primary">sakshikudke005@gmail.com</a>
+      </div>
+      <div class="social-row">
+        <a href="https://www.linkedin.com/in/sakshi-kudke" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <span class="dot-sep">·</span>
+        <a href="https://github.com/kudkesakshi21-bit" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>Sakshi Kudke &mdash; built with data, not templates. <span id="year"></span></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
