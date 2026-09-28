@@ -1,288 +1,520 @@
-<h1 align="center">
-  Hi 👋 I'm Sakshi Kudke
-</h1>
+I am a Pre-Final Year B.Tech Data Science student at MGM University, and my immediate career goal is to become a Data Analyst / Data Analytics professional.
 
-<h3 align="center">
-💻 Data Science Student | 📊 Aspiring Data Analyst | 🚀 Python Developer
-</h3>
+I have attached screenshots of my current GitHub profile. Analyze ALL the screenshots carefully before giving me recommendations.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Pre-Final+Year+Data+Science+Student;Python+Developer;SQL+Enthusiast;Power+BI+Developer;Data+Visualization+Specialist;Machine+Learning+Learner;Open+to+Internship+Opportunities" />
-</p>
+My GitHub username is visible in the screenshots.
 
-<p align="center">
+I want to completely improve my GitHub profile so that it looks:
 
-<img src="https://komarev.com/ghpvc/?username=kudkesakshi21-bit&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+- Professional
+- Clean
+- Modern
+- Recruiter-friendly
+- ATS/resume-friendly
+- Data Analyst focused
+- Suitable for internships and entry-level Data Analyst jobs
+- Genuine and not overly decorative
 
-<img src="https://img.shields.io/github/followers/kudkesakshi21-bit?logo=github&style=for-the-badge"/>
+IMPORTANT:
+My primary career target is DATA ANALYST / DATA ANALYTICS, not Software Developer or Machine Learning Engineer.
 
-<img src="https://img.shields.io/github/stars/kudkesakshi21-bit?affiliations=OWNER&style=for-the-badge"/>
+My core skills/interests are:
+- Python
+- Pandas
+- NumPy
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Statistics
+- Business Intelligence
+- Business Analysis
+- PostgreSQL/MySQL
+- Git/GitHub
 
-</p>
+I want you to act as:
+1. A professional GitHub profile reviewer
+2. A Data Analyst recruiter
+3. A portfolio strategist
+4. A GitHub README specialist
 
----
+--------------------------------------------------
+PART 1 — ANALYZE MY CURRENT PROFILE
+--------------------------------------------------
 
+Review everything visible in my screenshots:
 
+- Profile picture
+- Username
+- Name
+- Bio
+- Location
+- Education
+- About Me
+- Career Objective
+- Tech Stack
+- Skills
+- What I'm Working On
+- Featured Projects
+- GitHub Stats
+- GitHub Achievements
+- Contribution Graph
+- Social links
+- Popular repositories
+- Repository names
+- Overall visual design
 
-# 👩‍💻 About Me
+Tell me:
 
-🎓 **Pre-Final Year B.Tech Data Science Student** at **MGM University**
+A. What is already good?
+B. What looks unprofessional?
+C. What is unnecessary?
+D. What is missing?
+E. What should be removed?
+F. What should be rewritten?
+G. What should be added?
+H. What would a Data Analyst recruiter notice first?
 
-💙 Passionate about **Data Analytics, Python, SQL, and Business Intelligence**.
+Do NOT give generic advice. Base your recommendations on the screenshots.
 
-I enjoy analyzing data, discovering patterns, and building dashboards that help transform raw data into meaningful business insights.
+--------------------------------------------------
+PART 2 — CREATE MY NEW GITHUB IDENTITY
+--------------------------------------------------
 
-### ⚡ Highlights
+Create the exact content I should use for my profile.
 
-- 📊 Data Analytics Enthusiast
-- 🐍 Python Developer
-- 🗄️ SQL Learner
-- 📈 Power BI Dashboard Developer
-- 📉 Data Visualization Explorer
-- 🤖 Machine Learning Learner
-- 🚀 Building Real-World Projects
-- 🌱 Always Learning New Technologies
+Give me:
 
-### 🎯 Career Objective
+### A. GitHub Name
 
-Seeking opportunities to apply my analytical and technical skills in real-world projects while growing as a **Data Analyst** and contributing to data-driven decision-making.
+Suggest whether I should use:
+- My real name
+- Name + Data Analyst
+- Another professional format
 
-📫 **Email:** **sakshikudke005@gmail.com**
+Give the exact recommendation.
 
-# ⚡ Tech Stack
+### B. GitHub Bio
 
-### Programming Languages
+Write 3 professional bio options.
 
-<p align="center">
+The bio must clearly communicate:
 
-<img src="https://skillicons.dev/icons?i=python,c,mysql"/>
+Pre-Final Year Data Science Student
+Aspiring Data Analyst
+Python
+SQL
+Power BI
 
-</p>
+Keep it short and professional.
 
----
+### C. About Me
 
+Write a polished GitHub Profile README introduction.
+
+It should communicate:
+
+- I am a B.Tech Data Science student at MGM University
+- I am preparing for Data Analyst roles
+- I enjoy analyzing data
+- I work with Python, SQL, Excel and Power BI
+- I perform data cleaning and EDA
+- I create dashboards and visualizations
+- I focus on turning data into meaningful business insights
+- I am building real-world projects
+
+Do not exaggerate my experience.
+
+--------------------------------------------------
+PART 3 — CREATE MY COMPLETE PROFILE README
+--------------------------------------------------
+
+Create a complete, ready-to-copy `README.md` for my GitHub profile.
+
+Use this general structure:
+
+# Hi, I'm Sakshi 👋
+
+Professional headline
+
+## 👩‍💻 About Me
+
+## 🎯 Career Focus
+
+## 🛠️ Technical Skills
+
+### Programming
 ### Data Analytics
+### Databases
+### Business Intelligence
+### Data Visualization
+### Tools
 
-<p align="center">
+## 🚀 Currently Working On
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode"/>
+## 📊 Featured Projects
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+## 🎓 Education
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+## 📜 Certifications
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+## 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
+## 🔗 Connect With Me
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau">
+## 📌 Career Goal
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel">
+The README should be clean and professional.
 
-</p>
+Do NOT overload it with:
+- Too many emojis
+- Fake statistics
+- Excessive badges
+- Unnecessary animations
+- Broken external images
+- Decorative elements that don't provide value
 
----
+--------------------------------------------------
+PART 4 — IMPROVE MY TECH STACK
+--------------------------------------------------
 
-# 🚀 What I'm Working On
+Organize my skills specifically for Data Analyst recruitment.
 
-🔹 Data Analytics Projects
+Use categories such as:
 
-🔹 Power BI Dashboards
+Programming:
+Python, C
 
-🔹 SQL Practice
+Data Analysis:
+Pandas, NumPy
 
-🔹 Python Automation
+Databases:
+SQL, MySQL, PostgreSQL, SQLite
 
-🔹 Machine Learning
+Visualization:
+Matplotlib, Seaborn, Power BI, Tableau
 
-🔹 Data Visualization
+Business Analytics:
+Excel, KPI Analysis, Business Analysis
 
----
+Data Science:
+Statistics, EDA, Data Cleaning
 
-# 📂 Featured Projects
+Tools:
+Git, GitHub, Jupyter Notebook, VS Code
 
-<table>
+Tell me which skills I should:
+- Keep
+- Remove from the main profile
+- Move to individual repositories
+- Learn next
 
-<tr>
+Do not add technologies just to make the profile look impressive.
 
-<td width="50%">
+--------------------------------------------------
+PART 5 — ANALYZE MY EXISTING REPOSITORIES
+--------------------------------------------------
 
-### 📊 Student Performance Analysis
+Look at the repositories visible in my screenshots.
 
-✔ Python
+For EACH repository, provide:
 
-✔ Pandas
+Repository name:
+Current purpose:
+Keep / Improve / Rename / Archive:
+Why:
+Recommended new name:
+Recommended description:
+Technologies:
+What should be added:
+Priority:
+
+Pay special attention to repositories such as:
+- demo
+- portfolio-website
+- duplicate/unfinished repositories
+- student projects
+- analytics projects
 
-✔ Data Cleaning
+I do NOT want unnecessary repositories to appear on my public profile.
 
-✔ Dashboard
+--------------------------------------------------
+PART 6 — DESIGN MY IDEAL DATA ANALYST PORTFOLIO
+--------------------------------------------------
 
-</td>
+Recommend 6–8 strong projects that I should eventually have on GitHub.
 
-<td width="50%">
+The projects should demonstrate practical Data Analyst skills.
 
-### 📈 Sales Dashboard
+I want a balanced portfolio containing:
+
+1. Excel + Business Analysis
+2. SQL Business Analysis
+3. Python + Pandas EDA
+4. Power BI Dashboard
+5. Customer/Sales Analytics
+6. End-to-End Data Analytics Project
+7. Data Visualization
+8. One optional advanced project
+
+For EACH project provide:
+
+Project title:
+Professional GitHub repository name:
+Business problem:
+Dataset:
+Dataset source:
+Tools:
+Skills demonstrated:
+Business questions:
+KPIs:
+Analysis:
+Visualizations:
+Expected insights:
+Business recommendations:
+README structure:
+Folder structure:
+Difficulty:
+Estimated time:
 
-✔ Power BI
+Avoid basic "toy" projects.
 
-✔ KPI Dashboard
+Prefer projects based on realistic business scenarios such as:
+- Sales
+- E-commerce
+- Retail
+- Customer behavior
+- Marketing
+- Finance
+- HR
+- Operations
+- Product analytics
 
-✔ Excel
+--------------------------------------------------
+PART 7 — SELECT MY TOP 6 PROJECTS
+--------------------------------------------------
 
-✔ Business Insights
+From all recommendations, select the 6 projects that create the strongest BALANCED Data Analyst portfolio.
 
-</td>
+Do NOT rank them as "best/worst".
 
-</tr>
+Instead explain the role each project plays in demonstrating a different skill.
 
-<tr>
+The portfolio should demonstrate:
 
-<td width="50%">
+Python
+SQL
+Excel
+Power BI
+Data Cleaning
+EDA
+Statistics
+Data Visualization
+Business Thinking
+KPI Analysis
+Business Insights
 
-### 🎬 Netflix Data Analysis
+--------------------------------------------------
+PART 8 — MAKE EVERY PROJECT RECRUITER-READY
+--------------------------------------------------
 
-✔ Python
+For each project, provide a professional GitHub structure like:
 
-✔ Matplotlib
+project-name/
+│
+├── README.md
+├── data/
+├── notebooks/
+├── sql/
+├── dashboard/
+├── visuals/
+├── reports/
+└── requirements.txt
 
-✔ EDA
+Modify the structure depending on the project.
 
-</td>
+Explain exactly what files should go inside each folder.
 
-<td width="50%">
+--------------------------------------------------
+PART 9 — CREATE A PROFESSIONAL README TEMPLATE
+--------------------------------------------------
 
-### 📉 Data Visualization
+Create one reusable README template for my Data Analytics projects.
 
-✔ Charts
+It must include:
 
-✔ Reports
+# Project Title
 
-✔ Storytelling
+## 📌 Project Overview
 
-</td>
+## 🎯 Business Problem
 
-</tr>
+## 🎯 Objectives
 
-</table>
+## 📂 Dataset
 
----
+## 🛠️ Tools & Technologies
 
-# 📈 GitHub Stats
+## 🧹 Data Cleaning
 
-<p align="center">
+## 🔍 Exploratory Data Analysis
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kudkesakshi21-bit&show_icons=true&theme=tokyonight"/>
+## 📊 KPIs
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudkesakshi21-bit&layout=compact&theme=tokyonight"/>
+## 📈 Visualizations
 
-</p>
+## 💡 Key Insights
 
-<p align="center">
+## 💼 Business Recommendations
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kudkesakshi21-bit&theme=tokyonight"/>
+## 📁 Project Structure
 
-</p>
+## ▶️ How to Run
 
----
+## 📸 Dashboard / Visual Preview
 
-# 🏆 GitHub Achievements
+## 📚 Skills Demonstrated
 
-<p align="center">
+Make it professional and recruiter-friendly.
 
-<img src="https://github-profile-trophy.vercel.app/?username=kudkesakshi21-bit&theme=algolia&column=4"/>
+--------------------------------------------------
+PART 10 — PINNED REPOSITORIES
+--------------------------------------------------
 
-</p>
+Tell me exactly what 6 repositories I should pin once my portfolio is ready.
 
----
+For each pinned repository provide:
 
-# 📊 Contribution Graph
+Name:
+Purpose:
+Why it belongs on the profile:
+What recruiter learns from it:
 
-<p align="center">
+My pinned repositories should tell one clear story:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kudkesakshi21-bit&theme=react-dark"/>
+DATA → ANALYSIS → VISUALIZATION → INSIGHTS → BUSINESS DECISION
 
-</p>
+--------------------------------------------------
+PART 11 — REMOVE UNNECESSARY DECORATION
+--------------------------------------------------
 
----
+Review my current GitHub design.
 
-# 🌱 Currently Learning
+Tell me exactly which of these I should keep/remove:
 
-```text
-✔ Machine Learning
+- Profile views
+- GitHub stats
+- Streak stats
+- GitHub achievements
+- Contribution graph
+- Skill icons
+- Technology badges
+- Animated GIFs
+- Banners
+- Decorative separators
+- Large emoji sections
 
-✔ Power BI
+If any image/widget is broken in my screenshots, tell me to remove or fix it.
 
-✔ Tableau
+The goal is:
 
-✔ SQL Optimization
+Professional > Decorative
 
-✔ Excel Automation
+--------------------------------------------------
+PART 12 — RECRUITER TEST
+--------------------------------------------------
 
-✔ Data Storytelling
-```
+Pretend you are a recruiter hiring an entry-level Data Analyst.
 
----
+You open my GitHub profile for the first time.
 
-# 💼 Looking For
+Tell me what should be immediately clear within 10 seconds:
 
-🎯 Data Analyst Internship
+1. Who am I?
+2. What role do I want?
+3. What tools do I know?
+4. What projects have I built?
+5. Can I work with real-world data?
+6. Can I use SQL?
+7. Can I use Python?
+8. Can I build dashboards?
+9. Can I communicate insights?
+10. How can the recruiter contact me?
 
-🎯 Business Analyst Internship
+Then tell me what changes are necessary to make all 10 answers obvious.
 
-🎯 Python Developer Internship
+--------------------------------------------------
+PART 13 — 30-DAY GITHUB PLAN
+--------------------------------------------------
 
-🎯 Data Science Internship
+Create a realistic 30-day plan.
 
----
+Week 1:
+Profile cleanup
 
-# 🐍 Contribution Snake
+Week 2:
+SQL project
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kudkesakshi21-bit/kudkesakshi21-bit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kudkesakshi21-bit/kudkesakshi21-bit/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation"
-      src="https://raw.githubusercontent.com/kudkesakshi21-bit/kudkesakshi21-bit/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+Week 3:
+Python/Pandas project
 
----
+Week 4:
+Power BI + Excel project
 
-# 📊 Contribution Graph
+For each day tell me exactly what to work on.
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kudkesakshi21-bit&theme=tokyo-night"/>
-</p>
+Do not make the plan unrealistic for a college student.
 
+--------------------------------------------------
+PART 14 — LINKEDIN + RESUME CONNECTION
+--------------------------------------------------
 
-# 🌐 Connect With Me
+Explain how I should connect my GitHub with my:
 
-<p align="center">
+- Resume
+- LinkedIn
+- Portfolio
+- Job applications
 
-<a href="https://www.linkedin.com/in/sakshi-kudke">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+Give me professional wording for my resume such as:
 
-<a href="https://github.com/kudkesakshi21-bit">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+"GitHub: [link]"
 
-<a href="mailto:sakshikudke005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+and tell me which 2–3 GitHub projects should also be mentioned directly on my resume.
 
-</p>
+--------------------------------------------------
+PART 15 — FINAL ACTION CHECKLIST
+--------------------------------------------------
 
----
+At the end, give me a simple checklist:
 
-<p align="center">
+☐ Update profile name
+☐ Update bio
+☐ Rewrite About Me
+☐ Clean Tech Stack
+☐ Remove broken widgets
+☐ Clean repositories
+☐ Rename repositories
+☐ Create SQL project
+☐ Create Python project
+☐ Create Power BI project
+☐ Create Excel project
+☐ Improve READMEs
+☐ Add screenshots
+☐ Add business insights
+☐ Pin 6 repositories
+☐ Add LinkedIn
+☐ Connect GitHub to resume
 
-## ⭐ Thanks for Visiting!
+Finally, give me the EXACT final version of:
 
-### 🚀 Turning Data into Decisions
+1. GitHub Bio
+2. GitHub Profile README
+3. Tech Stack section
+4. Currently Working On section
+5. Featured Projects section
+6. Connect With Me section
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,100:005BEA&height=120&section=footer"/>
-
-</p>
